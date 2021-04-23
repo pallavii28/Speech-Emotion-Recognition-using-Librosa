@@ -16,7 +16,5 @@ Librosa library is used to extract features from sound and music file. Features 
 On testing our model we achieved an accuracy of 75.97% which is good enough!
 
 ### Note:
-The python notebook file in this repository was run on Google Colab. Since the dataset is uploaded on google drive we directly use that file in the colab. Benifits of using Colab: Fast Dataset Importing, Unzipping, Faster Processing Time, Get 100+ GB Disk Space and RAM of 12+ GB.
-#### There is no reason not to use Google Colab ;)
+The python notebook file in this repository was run on Google Colab. Since the dataset is uploaded on google drive we directly use that file in the colab. Benifits of using Colab: Fast Dataset Importing, Unzipping, Faster Processing Time, Get 100+ GB Disk Space and RAM of 12+ 
 
-This python mini project is just for educational purposes.
