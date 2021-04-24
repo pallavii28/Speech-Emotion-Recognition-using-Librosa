@@ -13,7 +13,7 @@ Librosa library is used to extract features from sound and music file. Features 
  - mel: Mel Spectrogram Frequency
 
 ## Accuracy Achieved
-On testing our model we achieved an accuracy of 66.88% which is good enough!
+On testing our model we achieved an accuracy of 72.08 % which is good enough!
 
 ### Note:
 The python notebook file in this repository was run on Google Colab. Since the dataset is uploaded on google drive we directly use that file in the colab. Benifits of using Colab: Fast Dataset Importing, Unzipping, Faster Processing Time, Get 100+ GB Disk Space and RAM of 12+ 
